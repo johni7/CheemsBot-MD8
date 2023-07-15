@@ -19,8 +19,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923400470983'] //ur owner number
-global.ownernomer = "923400470983" //ur owner number2
+global.owner = ['16304894714'] //ur owner number
+global.ownernomer = "16304894714" //ur owner number2
 global.ownername = "🦄Raju" //ur owner name
 global.ytname = "YT: DSPBOSSYT" //ur yt chanel name
 global.socialm = "https://github.com/johni7/CheemsBot-MD8: Raju" //ur github or insta name
@@ -28,9 +28,9 @@ global.location = "Pakistan , Punjab , Faisalabad" //ur location
 
 //new
 global.botname = "Raju"
-global.ownernumber = '923400470983'
+global.ownernumber = '16304894714'
 global.ownername = '🦄Raju'
-global.ownerNumber = ["923400470983@s.whatsapp.net"]
+global.ownerNumber = ["16304894714@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DSPBOSSYT"
 global.websitex = "https://youtu.be/dspbossyt"
 global.wagc = "https://chat.whatsapp.com/Eeo2DAxu5ec4wrIoSxZhs5"
@@ -38,8 +38,8 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/johni7/CheemsBot-MD8' //script link
 global.packname = "Sticker By"
-global.author = "🦄Raju\n\n+923400470983"
-global.creator = "923400470983@s.whatsapp.net"
+global.author = "🦄Raju\n\n+16304894714"
+global.creator = "16304894714@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
